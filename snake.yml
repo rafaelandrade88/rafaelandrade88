@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # execute a cada 12 horas
+   - cron: "*/5 * * * *"  # Execute a cada 5 minutos
   workflow_dispatch:
   push:
     branches:
@@ -28,8 +28,8 @@ jobs:
       - name: Commit and push snake.svg to the output branch
         uses: actions/setup-git@v2
         with:
-          git_user_name: github-actions
-          git_user_email: github-actions@github.com
+          git_user_name: rafaelandrade88
+          git_user_email: rafaandrade_@outlook.com
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"

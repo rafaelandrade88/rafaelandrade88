@@ -45,4 +45,6 @@
   </a>
 </div>
 
+![snake](https://github.com/rafaelandrade88/rafaelandrade88/blob/main/snake.svg)
+
 ###

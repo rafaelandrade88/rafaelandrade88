@@ -1,22 +1,20 @@
-<h1 align="center">
-  👋 Rafael Andrade
-</h1>
+<h1 align="center">👋 Rafael Andrade</h1>
 
 <h3 align="center">
-  Full Stack Developer • DevOps Engineer • AI Builder
+Full Stack Developer • DevOps Engineer • AI Builder
 </h3>
 
 <p align="center">
-  Building scalable applications, cloud infrastructure and AI-powered solutions.
+Building scalable applications, cloud infrastructure and AI-powered solutions.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rafaeldasilvaandrade/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/rafaelandrade88">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://discord.com/users/519570556043919360">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/rafaeldasilvaandrade/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -24,60 +22,32 @@
 
 ## 🚀 About Me
 
-💻 Full Stack Developer passionate about building modern web applications.
+💻 Full Stack Developer focused on building modern and scalable applications.
 
-☁️ DevOps Engineer focused on cloud infrastructure, automation and scalability.
+☁️ DevOps Engineer passionate about cloud infrastructure, automation and platform engineering.
 
-🤖 Exploring AI Agents, intelligent workflows and next-generation software products.
+🤖 Building AI-powered products, intelligent workflows and developer tools.
 
-🚀 Strong interest in Kubernetes, Infrastructure as Code and cloud-native architectures.
+🚀 Experienced with Kubernetes, Infrastructure as Code and cloud-native architectures.
 
 🇧🇷 Based in Brazil.
-
-I enjoy transforming ideas into production-ready products, combining software development, cloud infrastructure, automation, and artificial intelligence to create scalable solutions.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
-</p>
-
-### Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### DevOps & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,git,github" />
-</p>
-
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,mysql,postgres,mongodb,docker,kubernetes,terraform,ansible,aws,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelandrade88&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rafaelandrade88&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelandrade88&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelandrade88&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,10 +60,10 @@ I enjoy transforming ideas into production-ready products, combining software de
 
 ---
 
-## 🏆 Achievements
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaelandrade88&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelandrade88&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -101,7 +71,7 @@ I enjoy transforming ideas into production-ready products, combining software de
 ## 🎯 Current Focus
 
 - 🤖 AI Agents & LLM Applications
-- ☁️ Cloud Infrastructure
+- ☁️ Cloud Infrastructure & Platform Engineering
 - 🚀 Full Stack Development
 - ⚙️ DevOps Automation
 - 📦 Kubernetes Ecosystem
@@ -109,9 +79,29 @@ I enjoy transforming ideas into production-ready products, combining software de
 
 ---
 
+## 🚀 Featured Areas
+
+### Artificial Intelligence
+
+Building AI-powered applications, agentic workflows and automation systems using modern LLM technologies.
+
+### Cloud & DevOps
+
+Designing scalable cloud-native environments with Kubernetes, Terraform, Docker and Infrastructure as Code practices.
+
+### Full Stack Development
+
+Creating modern web applications with TypeScript, React, Next.js and Node.js focused on performance and scalability.
+
+---
+
 ## 🌎 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/rafaelandrade88">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
   <a href="https://www.linkedin.com/in/rafaeldasilvaandrade/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -120,11 +110,5 @@ I enjoy transforming ideas into production-ready products, combining software de
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelandrade88&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <b>Building software, automating infrastructure and creating intelligent systems.</b>
+  <b>Build. Automate. Scale.</b>
 </p>

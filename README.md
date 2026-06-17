@@ -24,31 +24,15 @@
 
 ## 🚀 About Me
 
-```typescript
-const rafael = {
-  role: [
-    "Full Stack Developer",
-    "DevOps Engineer",
-    "AI Builder"
-  ],
+💻 Full Stack Developer passionate about building modern web applications.
 
-  passions: [
-    "Software Engineering",
-    "Cloud Architecture",
-    "Automation",
-    "Artificial Intelligence"
-  ],
+☁️ DevOps Engineer focused on cloud infrastructure, automation and scalability.
 
-  currentFocus: [
-    "AI Agents",
-    "Cloud Native Applications",
-    "Infrastructure as Code",
-    "Scalable Systems"
-  ],
+🤖 Exploring AI Agents, intelligent workflows and next-generation software products.
 
-  motto: "Build. Automate. Scale."
-}
-```
+🚀 Strong interest in Kubernetes, Infrastructure as Code and cloud-native architectures.
+
+🇧🇷 Based in Brazil.
 
 I enjoy transforming ideas into production-ready products, combining software development, cloud infrastructure, automation, and artificial intelligence to create scalable solutions.
 
